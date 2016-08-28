@@ -1,0 +1,32 @@
+{
+  "name": "redux-experiment",
+  "version": "0.0.0",
+  "description": "A/B and multivariate testing for redux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rangle/redux-experiment.git"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "react-redux",
+    "angular",
+    "ng-redux",
+    "optimizely",
+    "ab",
+    "a/b",
+    "multivariate",
+    "experiments",
+    "testing"
+  ],
+  "author": "Rangle.io <redux-experiment@rangle.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rangle/redux-experiment/issues"
+  },
+  "homepage": "https://github.com/rangle/redux-experiment#readme"
+}
